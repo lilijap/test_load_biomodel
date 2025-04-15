@@ -1,0 +1,1 @@
+copasi_basico==0.78
