@@ -19,6 +19,7 @@ jobs:
     
     - name: Install dependencies
       run: |
+        pip install python-copasi==4.45.296
         pip install -r requirements.txt
     
     - name: Run Python script
